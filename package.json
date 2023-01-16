@@ -1,6 +1,6 @@
 {
   "name": "@lontara/nestjs-firebase-auth",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "NestJS Passport Strategy for Firebase Auth using Firebase Admin SDK. fork from @tfalonrras/nestjs-firebase-auth",
   "author": "Prastowo Agung Widodo<agung@lontara.app>",
   "readmeFilename": "README.md",
@@ -40,12 +40,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tfarras/nestjs-firebase-auth.git"
+    "url": "git+https://github.com/lontara-app/nestjs-firebase-auth.git"
   },
   "bugs": {
-    "url": "https://github.com/tfarras/nestjs-firebase-auth/issues"
+    "url": "https://github.com/lontara-app/nestjs-firebase-auth/issues"
   },
-  "homepage": "https://github.com/tfarras/nestjs-firebase-auth#readme",
+  "homepage": "https://github.com/lontara-app/nestjs-firebase-auth#readme",
   "peerDependencies": {
     "@nestjs/common": "^9.2.1",
     "@types/passport-jwt": "^3.0.5",
